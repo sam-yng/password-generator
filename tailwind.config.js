@@ -7,9 +7,12 @@ export default {
   theme: {
     colors: {
       "black": "#08070B",
+      "huh": "#18171F",
       "offblack": "#14131B",
       "gray": "#817D92",
-      "offgray": "#24232C"
+      "offgray": "#24232C",
+      "altwhite": "#E6E5EA",
+      "green": "#A4FFAF"
     },
     extend: {
       fontFamily: {

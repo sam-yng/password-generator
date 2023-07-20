@@ -14,7 +14,7 @@ export const App: React.FC = () => {
         "items-center",
       )}
     >
-      <h1 className={classNames("text-2xl", "text-gray", "font-regular")}>
+      <h1 className={classNames("text-xl", "text-gray", "font-regular")}>
         Password Generator
       </h1>
       <Container />
